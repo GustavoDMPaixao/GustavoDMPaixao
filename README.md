@@ -76,7 +76,7 @@ I'm a Full Stack developer specializing in Front End solutions. I have over an y
     align="left" 
     alt="Nodejs" 
     title="Nodejs"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
     />
@@ -93,7 +93,7 @@ I'm a Full Stack developer specializing in Front End solutions. I have over an y
     align="left" 
     alt="Mongodb" 
     title="Mongodb"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
 />
