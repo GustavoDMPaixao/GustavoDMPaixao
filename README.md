@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`** **`Front-End Developer`**
 
-*I'm a Full Stack developer specializing in Front End solutions. I have over an year of experience building full-stack projects aimed at solving real-world problems using different technologies and frameworks such as Javascript, Typescript, React JS, Bootstrap, Node.js.*
+**I'm a Full Stack developer specializing in Front End solutions. I have over an year of experience building full-stack projects aimed at solving real-world problems using different technologies and frameworks such as Javascript, Typescript, React JS, Bootstrap, Node.js.**
 
 ---
 
