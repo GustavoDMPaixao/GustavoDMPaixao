@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Gustavo Paixao
 
-**`Full Stack Developer`** **`Front-End Developer`**
+**``Back-End Developer`** **`Full Stack Developer`** 
 
 **I'm a Full Stack developer specializing in Front End solutions. I have over an year of experience building full-stack and front-end focused projects aimed at solving real-world problems using different technologies and frameworks such as Javascript, Typescript, React JS, Next.js Tailwind, Node.js.**
 
