@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Gustavo Paixao
 
-**``Back-End Developer`** **`Full Stack Developer`** 
+**`Back-End Developer`** **`Full Stack Developer`** 
 
-**I'm a Full Stack developer specializing in Front End solutions. I have over an year of experience building full-stack and front-end focused projects aimed at solving real-world problems using different technologies and frameworks such as Javascript, Typescript, React JS, Next.js Tailwind, Node.js.**
+**I'm a Full Stack developer specializing in Back End solutions. I have over an year of experience building full-stack and back-end focused projects aimed at solving real-world problems using different technologies and frameworks such as C#, .NET, ASP.NET, AngularJS, Azure, Node.js.**
 
 ---
 
@@ -54,7 +54,7 @@
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
 />
 <img 
     align="left" 
@@ -78,7 +78,7 @@
     title="Nodejs"
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"
     />
           
 <img 
@@ -87,7 +87,7 @@
     title="SASS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
@@ -108,11 +108,11 @@
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Azure" 
+    title="Azure"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
 
 <br/>
